@@ -9,7 +9,7 @@ using System.Text;
 
 namespace Blind75
 {
-    public class Array
+    public class Arrays
     {
         /// <summary>
         /// Ref: https://leetcode.com/problems/two-sum/
